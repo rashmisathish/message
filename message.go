@@ -1,4 +1,4 @@
-package messge
+package message
 
 import "fmt"
 
